@@ -1,4 +1,4 @@
-# Chenillard version simple
+# Chenillard Arduino version simple
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/></a>
