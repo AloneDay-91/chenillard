@@ -13,5 +13,3 @@ Le chenillard est un ensemble de DEL dont le programme présenté ci-après cont
 ```bash
 git clone https://github.com/AloneDay-91/chenillard
 ```
-## Utilisation
-Tout d'abord, télécharger le programme ci-dessus. Ensuite, modifier le lien pour mettre le lien que vous voulez. Vous pouvez aussi changer les paramètres du QRCode image.
